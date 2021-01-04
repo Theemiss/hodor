@@ -23,13 +23,10 @@ and make the necessary changes
 
 ## Usage Example : Level 0
 ```
-
 > ./script.py
-
 ```
 ## output : : Level 0
 ```
-
 1 Vote
 2
 .
@@ -37,7 +34,6 @@ and make the necessary changes
 .
 .
 1024 vote
-
 ```
 the script will take 1024S to complete . Duo The Wait Bridge i put in case Your internet is Slow as Hell 
 
